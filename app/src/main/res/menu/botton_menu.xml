@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_stamp"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_shopping_bag_24"
+        android:title="스탬프"/>
+    <item
+        android:id="@+id/action_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="홈으로"/>
+    <item
+        android:id="@+id/action_refridge"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_sensor_window_24"
+        android:title="냉장고"/>
+    <item
+        android:id="@+id/action_event"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_event_24"
+        android:title="이벤트"/>
+
+</menu>
