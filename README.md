@@ -6,6 +6,7 @@ Seasonal Vegetable / Fruit Sales App<br>
 
 ## Table of contents
 - [Background and Purpose](#Background-and-Purpose)
+- [Team Member](#Team-Member)
 - [Environment and Technology](#Environment-and-Technology)
 - [Schedule](#Schedule)
 - [ERD](#ERD)
@@ -14,6 +15,9 @@ Seasonal Vegetable / Fruit Sales App<br>
 
 ## Background and Purpose
 <img src="https://i.ibb.co/Wsy11Xp/1.jpg" alt="1" border="0"><br>
+
+## Team Member
+<a href="https://ibb.co/kJbdCRz"><img src="https://i.ibb.co/cwfmnGR/team.jpg" alt="team" border="0"></a>
 
 ## Environment and Technology
 ![SPRINGBOOT](https://img.shields.io/badge/-SPRINGBOOT-6DB33F?style=for-the-badge&logo=SPRINGBOOT&logoColor=ffffff)
