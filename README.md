@@ -1,10 +1,10 @@
 
 <img src="https://i.ibb.co/nrRTTYB/image.jpg" alt="image" border="0"><br>
 
-# funkiepumkin🎃
+# funkiepumpkin🎃
 My Android App Team Project<br>
 
-## Table of contents
+## 🥦 Table of contents
 - [Background and Purpose](#Background-and-Purpose)
 - [Environment and Technology](#Environment-and-Technology)
 - [Schedule](#Schedule)
@@ -12,10 +12,10 @@ My Android App Team Project<br>
 - [Pages](#Pages)
 - [Main Features](#Main-Features)
 
-## Background and Purpose
+## 🥕 Background and Purpose
 <img src="https://i.ibb.co/Wsy11Xp/1.jpg" alt="1" border="0"><br>
 
-## Environment and Technology
+## 🥬 Environment and Technology
 ![SPRINGBOOT](https://img.shields.io/badge/-SPRINGBOOT-6DB33F?style=for-the-badge&logo=SPRINGBOOT&logoColor=ffffff)
 ![JAVA](https://img.shields.io/badge/-JAVA-663300?style=for-the-badge&logo=JAVA&logoColor=ffffff)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=ffffff)
@@ -23,13 +23,13 @@ My Android App Team Project<br>
 ![ECLIPSE](https://img.shields.io/badge/-ECLIPSE-2C2255?style=for-the-badge&logo=ECLIPSE&logoColor=ffffff)
 ![ANDROIDSTUDIO](https://img.shields.io/badge/-ANDROIDSTUDIO-3DDC84?style=for-the-badge&logo=ANDROIDSTUDIO&logoColor=ffffff)
 ![MYSQLWORKBENCH](https://img.shields.io/badge/-MYSQLWORKBENCH-4479A1?style=for-the-badge&logo=MYSQL&logoColor=ffffff)
-## Schedule
+## 🍆 Schedule
 <img src="https://i.ibb.co/Zxrkfxk/2.jpg" alt="2" border="0">
 
-## ERD
+## 🍅 ERD
 <img src="https://i.ibb.co/MSFTcwX/3.jpg" alt="3" border="0">
 
-## Pages 
+## 🥗 Pages 
 <h3>
 <table>
   <tr>
@@ -72,7 +72,7 @@ My Android App Team Project<br>
 </table>
 </h3>
 
-## Main Features
+## 🌽 Main Features
 - Start Animation & Main 
   - Using thread and animation function 
   - Using card View for main page
