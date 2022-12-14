@@ -6,11 +6,11 @@ My Android App Team Project<br>
 
 ## Table of contents
 - [Background and Purpose](#Background-and-Purpose)
-- Environment and Technology
-- Schedule
-- ERD
-- Pages
-- Main Features
+- [Environment and Technology](#Environment-and-Technology)
+- [Schedule](#Schedule)
+- [ERD](#ERD)
+- [Pages](#Pages)
+- [Main Features](#Main-Features)
 
 ## Background and Purpose
 <img src="https://i.ibb.co/Wsy11Xp/1.jpg" alt="1" border="0"><br>
@@ -45,7 +45,7 @@ My Android App Team Project<br>
     <td><a href="https://imgbb.com/"><img src="https://i.ibb.co/W0tBmhg/4.jpg" alt="4" border="0"></a></td><td><a href="https://imgbb.com/"><img src="https://i.ibb.co/MV0SS0q/5.jpg" alt="5" border="0"></a></td><td><a href="https://imgbb.com/"><img src="https://i.ibb.co/myFYG58/6.jpg" alt="6" border="0"></a></td>
   </tr>
   <tr>
-    <td>Product Detail</td><td>Cart List</td><td>Order</td>
+    <td>Product Detail</td><td>Cart</td><td>Order</td>
   </tr>
   <tr>
     <td><a href="https://imgbb.com/"><img src="https://i.ibb.co/7S0hMMH/7.jpg" alt="7" border="0"></a></td><td><a href="https://imgbb.com/"><img src="https://i.ibb.co/Y3vZFrt/8.jpg" alt="8" border="0"></a></td><td><a href="https://imgbb.com/"><img src="https://i.ibb.co/mNg8LVJ/9.jpg" alt="9" border="0"></a></td>
@@ -75,3 +75,34 @@ My Android App Team Project<br>
 ## Main Features
 - Start Animation & Main 
   - Using thread and animation function 
+  - Using card View for main page
+  - If click on login floating button, move to login page
+  - Connect to each activities through botton bar
+- Join & Login
+  - Linear Layout
+  - Social Login(KaKao Login)
+- Product List
+  - Using TapHost, RecyclerView
+  - Recommend list : ViewPager
+  - If click on a product, move to product detail page
+- Cart & Order
+  - Cart/order list : using RecyclerView
+  - Available to change writing info page based on delivery/pick up
+- Fridge
+  - Fridge Product List : using RecyclerView
+  - Waiting Order > If admin approved, add product to fridge
+  - If click on a product, pop up dialog
+  - Recommend recipe : searching recipe which include selected product
+  - Expiration date alert system
+- Stamp
+  - Work similar to coffee shop coupon
+  - If you buy something, you can get a stamp!
+- Lucky ball
+   - Interest-oriented function
+   - Using CircleMenu, Show grade ramdonly from 1st to 6th
+- Map
+  - Finding near shop from my location 
+  - Usting Naver Map API, Bottomless vertex of stuff
+-  Member
+   - Generate QR code with Zxing
+  
