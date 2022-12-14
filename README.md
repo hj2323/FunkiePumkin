@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/nrRTTYB/image.jpg" alt="image" border="0"><br>
 
 # funkiepumpkin🎃
-My Android App Team Project<br>
+Seasonal Vegetable / Fruit Sales App<br>
 
 ## Table of contents
 - [Background and Purpose](#Background-and-Purpose)
