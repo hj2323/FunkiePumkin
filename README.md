@@ -30,7 +30,7 @@ Seasonal Vegetable / Fruit Sales App<br>
 <img src="https://i.ibb.co/MSFTcwX/3.jpg" alt="3" border="0">
 
 ## Pages 
-<h3>
+<h4>
 <table>
   <tr>
     <td>Start Animation</td><td>Main</td><td>Join</td>
@@ -70,7 +70,7 @@ Seasonal Vegetable / Fruit Sales App<br>
   </tr>
   
 </table>
-</h3>
+</h4>
 
 ## Main Features
 - Start Animation & Main 
